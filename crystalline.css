@@ -1,16 +1,6 @@
-/**********************************************************
- *           Crystalline CSS for BeautifulDiscord         *
- *                     Version 1.8.6                      *
- *                                                        *
- *                   Created by SamuiNe                   *
- *               https://github.com/SamuiNe               *
- *                                                        *
- *            Found a bug or have a suggestion?           *
- *  Feel free to open an issue at the GitHub repository.  *
- *                  Thank you in advance!                 *
- *                                                        *
- *       MIT License, Copyright SamuiNe 2016 ~ 2017       *
- **********************************************************/
+/*
+Most of this shit is just a fork of Crystalline.css by SamuiNe (https://github.com/SamuiNe) with some shit changed to look more streamlined, and less blocky.
+*/
 
 /* Caution! This theme only works for dark theme for now. It will not work properly at light theme. */
 
@@ -41,7 +31,7 @@ body {
        2nd value - Green 0-255
        3rd value - Blue 0-255
        4th value - Alpha (Opacity) 0.0-1.0 */
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.8);
 
     -webkit-transition: background 0.5s ease-in-out;
     transition: background 0.5s ease-in-out;
