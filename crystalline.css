@@ -2465,6 +2465,7 @@ span.amount {
 .header-1tSljs:hover,
 .popout-open .header-1tSljs{
     background-color: transparent;
+    border-bottom: 0px !important;
 }
 
 .container-3lnMWU{
