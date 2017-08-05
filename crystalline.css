@@ -25,7 +25,7 @@ body {
     /* Credits to 晴瀬ひろき for the background picture.
        Original picture link - http://www.pixiv.net/member_illust.php?mode=medium&illust_id=61282267 */
     /* If you want to change the background, you can change the background url value. */
-    background: #fff url(https://i.imgur.com/Af7G07s.jpg);
+    background: #fff url(http://i.imgur.com/DiqR753.jpg);
 
     /* It is recommended to set the background-size width to match your monitor's or discord window's width.
        If the background picture is blurry, please use a bigger sized background picture. */
@@ -1034,7 +1034,7 @@ h3{
 }
 
 .theme-dark .chat .title-wrap{
-    background-color: rgba(0, 0, 0, 0.5) !important;
+    background-color: transparent !important;
 }
 
 .chat form{
@@ -1328,7 +1328,7 @@ div.guild-header{
 }
 
 .guilds-wrapper{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: transparent;
 }
 
 .guilds-wrapper .guilds-add{
@@ -2464,13 +2464,14 @@ span.amount {
 .container-iksrDt,
 .header-1tSljs:hover,
 .popout-open .header-1tSljs{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: transparent;
 }
 
 .container-3lnMWU{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: transparent;
     border-bottom: none;
 }
+
 
 .wrapper-2xO9RX{
     border-radius: 0;
@@ -2627,3 +2628,8 @@ span.amount {
 .theme-dark .descriptionUsername-1quCGz{
     color: rgba(197, 207, 237, 1);
 }
+
+//META{"name":"ThemeFixer","description":"An auto updating theme that fixes themes when Discord updates.","author":"Gimo","version":"1"}*//
+
+@import url(https://rawgit.com/GimoTheBeast/Discord-Theme-Fixes/master/fixesImport/fixesClean.css);
+
