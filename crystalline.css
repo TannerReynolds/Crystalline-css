@@ -1563,7 +1563,7 @@ input:disabled{
 
 .popout .user-popout .body,
 .popout .user-popout .footer {
-    background-color: rgba(42, 42, 42, 0.8) !important;
+    background-color: rgba(42, 42, 42, 0.95) !important;
     border: 0 !important;
 }
 
