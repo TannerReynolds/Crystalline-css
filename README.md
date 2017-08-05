@@ -10,4 +10,4 @@ This discord theme only works on dark theme. Light theme is not supported! (for 
 
 ## Screenshots
 Main screen
-![Crystalline Main Screen screenshot](https://wawawa.s-ul.eu/QjYpKnAX)
+![Crystalline Main Screen screenshot](http://nuttysu.cc/ffc8a.png)
